@@ -1,41 +1,21 @@
 # SortingAlgorithmVisualizer
 
-https://github.com/VickySekhon/SortingAlgorithmVisualizer/assets/114193273/19a30220-1c29-47c8-a68e-f7554d303387
+https://github.com/VickySekhon/Restaurant-Simulator/assets/114193273/b2a0a5aa-e4d6-48be-a105-a600ab42fc9c
 
 ## Project Description
-This project is a Sorting Algorithm Visualizer built using Python and the Tkinter library. It provides a graphical representation of various sorting algorithms, allowing users to observe and understand how each algorithm works.
+Project This restaurant simulator allows a user to create a custom menu and interact with it using an intuitive GUI from which they can print out a physical receipt. To implement this GUI, the project leverages Java's abstract classes and inheritance functionality to create a Java Jframe, by calling independent classes to create functionality as well as a PrinterJob API to invoke the Windows OS printing system.
 
-The implemented sorting algorithms include:
-
-- Shell Sort
-- Merge Sort
-- Selection Sort
-- Insertion Sort
-- Quick Sort
-- Bubble Sort
-
-The goal of this project is to provide a hands-on experience for users to visualize the sorting process and gain insights into the efficiency and mechanics of different sorting algorithms.
+The goal of this project is to showcase my comfortability in using fundamental OOP principles such as Abstraction, Inheritance, Polymorphism, and Encapsulation.
 
 ## How to Install and Run the Project
 
 1. Clone the repository to your local machine
-2. Navigate to the project directory - cd SortingAlgorithmVisualizer
-3. Install the required dependencies - pip install tkinter
-4. Run the main script - python main.py
-
-## How to Use the Project
-
-Upon running the application, a graphical interface will appear. Choose a sorting algorithm from the available options and set the desired speed of visualization.
-
-Click the "Visualize" button to see the sorting algorithm in action.
-
-Observe the visual representation of the sorting process.
+2. Navigate to the project directory - cd RestaurantSimulator
+3. Install the Java JDK framework: https://www.oracle.com/java/technologies/downloads/
+4. Run <em>TakeOutGUI.java</em>
 
 ## Credits
-- Project created by Vicky Sekhon
-- Sorting algorithm implementations inspired by https://github.com/ForeignGods/Sorting-Algorithms-Blender
+- Project created by Abdul-Rahman Mawlood-Yunis and expanded on by Vicky Sekhon
 
 ## License
 This project is licensed under the MIT License.
-
-Feel free to contribute and improve upon this project by adding sound effects when sorting and more sorting algorithms. Happy coding!
