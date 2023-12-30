@@ -7,6 +7,8 @@ This restaurant simulator allows a user to create a custom menu and interact wit
 
 The goal of this project is to showcase my comfortability in using fundamental OOP principles such as Abstraction, Inheritance, Polymorphism, and Encapsulation.
 
+This project was part of my university CP213 course, which involved a final project involving the use of Java JFrame.
+
 ## How to Install and Run the Project
 
 1. Clone the repository to your local machine
@@ -15,7 +17,7 @@ The goal of this project is to showcase my comfortability in using fundamental O
 4. Run <em>TakeOutGUI.java</em>
 
 ## Credits
-- Project created by Abdul-Rahman Mawlood-Yunis and expanded on by Vicky Sekhon
+- Project skeleton created by Abdul-Rahman Mawlood-Yunis and functionality completed by Vicky Sekhon
 
 ## License
 This project is licensed under the MIT License.
