@@ -42,20 +42,20 @@ public class Order implements Printable {
     	
 	// your code here
     	
-    // check if item already exists in order
-    if (items.containsKey(item)) {
-    	this.update(item, quantity);
-    } else {
-    	
-    	// quantity is greater than 0
-    	if (quantity > 0) {
-    		items.put(item, quantity);
-    		
-    	// quantity is 0 
-    	} else {
-    		items.remove(item);
-    	}    	
-    }
+	    // check if item already exists in order
+	    if (items.containsKey(item)) {
+	    	this.update(item, quantity);
+	    } else {
+	    	
+	    	// quantity is greater than 0
+	    	if (quantity > 0) {
+	    		items.put(item, quantity);
+	    		
+	    	// quantity is 0 
+	    	} else {
+	    		items.remove(item);
+	    	}    	
+	    }
     }
 
     /**
