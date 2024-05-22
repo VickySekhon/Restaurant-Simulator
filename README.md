@@ -14,7 +14,7 @@ This project was part of my university CP213 course, which involved a final proj
 1. Clone the repository to your local machine
 2. Navigate to the project directory - ```cd RestaurantSimulator```
 3. Install the Java JDK framework: ```https://www.oracle.com/java/technologies/downloads/```
-4. Run ```<em>TakeOutGUI.java</em>```
+4. Run ```TakeOutGUI.java```
 
 ## Credits
 - Project skeleton created by Abdul-Rahman Mawlood-Yunis and functionality completed by Vicky Sekhon
