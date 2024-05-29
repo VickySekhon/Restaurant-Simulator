@@ -73,6 +73,7 @@ public class A05Main {
 	System.out.println(String.format("menuItem.toString():\n  {\"hot dog      $ 1.25\"}: \"%s\"", string));
 	System.out.println();
     }
+	
     /**
      * Simple Menu tests.
      */
